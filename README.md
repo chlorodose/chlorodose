@@ -9,10 +9,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=chlorodose&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-
 <!--
 **chlorodose/chlorodose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
